@@ -19,3 +19,7 @@ It is the implementation of Vigenère Cipher in C++. There are 4 positive and 2 
 ### Test Case 2 (pass):
 ![image](https://github.com/hatifmujahid/SE_testing_using_CMAKE/assets/56687118/a4d1a5fd-828d-4da7-a190-7880ff525b6b)
 
+### Running Test Case 2:
+![image](https://github.com/hatifmujahid/SE_testing_using_CMAKE/assets/56687118/95bb3900-1ac8-40f4-839e-242dd3090ac4)
+
+
