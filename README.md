@@ -16,3 +16,6 @@ It is the implementation of Vigenère Cipher in C++. There are 4 positive and 2 
 
 ![image](https://github.com/hatifmujahid/SE_testing_using_CMAKE/assets/56687118/6f4700b7-9e92-446c-bc08-93bc62f67953)
 
+### Test Case 2 (pass):
+![image](https://github.com/hatifmujahid/SE_testing_using_CMAKE/assets/56687118/a4d1a5fd-828d-4da7-a190-7880ff525b6b)
+
