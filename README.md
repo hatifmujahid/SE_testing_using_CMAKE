@@ -41,5 +41,7 @@ It is the implementation of Vigenère Cipher in C++. There are 4 positive and 2 
 ![image](https://github.com/hatifmujahid/SE_testing_using_CMAKE/assets/56687118/81ca8b1a-bf60-43a3-9815-af3f6ce70a71)
 
 ### Test Case 6 (pass):
+![image](https://github.com/hatifmujahid/SE_testing_using_CMAKE/assets/56687118/2cb3f821-259d-41fd-a3d6-7b6e21d033aa)
+
 ### Running Test Case 6:
 ### Final Results
