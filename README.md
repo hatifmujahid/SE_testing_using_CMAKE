@@ -12,9 +12,7 @@ It is the implementation of Vigenère Cipher in C++. There are 4 positive and 2 
 
 ![image](https://github.com/hatifmujahid/SE_testing_using_CMAKE/assets/56687118/b594b8ec-d04d-469b-8c37-cb1da9c51cde)
 
+### Running Test Case 1:
 
+![image](https://github.com/hatifmujahid/SE_testing_using_CMAKE/assets/56687118/6f4700b7-9e92-446c-bc08-93bc62f67953)
 
-### Running Test Case 5:
-### Test Case 6 (pass):
-### Running Test Case 6:
-### Final Results
